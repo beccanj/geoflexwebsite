@@ -9,5 +9,5 @@ I was able to Create a test project folder and initialize it as a Git repository
 - Cloned my GitHub repo into a new folder and simulated pulling code from a remote source.
 
 ### Collaboration
-- Forked sshuair's repository--https://github.com/sshuair/awesome-gis, made a change, pushed to my fork(software1), and opened a pull request. Also, commented on his PR.
+- Forked sshuair's repository--https://github.com/beccanj/awesome-gis, made a change, pushed to my fork(software1), and opened a pull request. Also, commented on his PR.
 
